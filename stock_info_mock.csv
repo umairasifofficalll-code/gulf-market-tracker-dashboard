@@ -1,0 +1,13 @@
+ticker,company_name,sector,exchange,currency,shares_outstanding,dividend_yield_pct,pe_ratio
+GEB,Gulf Emirates Bank,Banking,DFM,AED,2500000000,3.49,26.1
+NCB,Najd Commercial Bank,Banking,Tadawul,SAR,1600000000,5.25,9.8
+ADF,Abu Dhabi First Finance,Banking,ADX,AED,3000000000,5.97,23.3
+DPG,Dunes Properties Group,Real Estate,DFM,AED,4000000000,1.51,14.4
+SKR,Skyline Realty,Real Estate,ADX,AED,2200000000,4.78,9.4
+PGE,Peninsula Gas & Energy,Energy,Tadawul,SAR,1100000000,2.98,20.4
+OAR,Oasis Petroleum,Energy,ADX,AED,3500000000,4.39,18.4
+GTC,Gulf Telecom,Telecom,DFM,AED,5000000000,2.21,14.1
+PTL,PortLink Logistics,Logistics,DFM,AED,2000000000,5.21,12.2
+MRT,Meraki Retail Holdings,Retail,Tadawul,SAR,900000000,6.41,8.6
+SKA,Sky Arabia Airlines,Aviation & Hospitality,DFM,AED,3200000000,5.65,25.4
+NXT,NexTech Gulf,Technology,ADX,AED,1000000000,1.63,16.2
